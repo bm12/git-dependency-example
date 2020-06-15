@@ -1,5 +1,5 @@
 const isEqual = (a, b) => a === b;
 
-module.export = {
+module.exports = {
     isEqual,
 };
